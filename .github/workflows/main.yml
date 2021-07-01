@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: s-tyda
+          user: sarneusz
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
